@@ -7,6 +7,16 @@
     display: flex;
     justify-content: center;
 }
+.sun{
+    width: 150px;
+    height: 150px;
+    background-color: #e86c48;
+    position: absolute;
+    border-radius: 100%;
+    border: 12px solid #efa588;
+    right: -550px;
+    top: 250px;
+}
 .rockgrass{
     width: 100%;
     height: 142px;
